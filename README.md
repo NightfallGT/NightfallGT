@@ -1,2 +1,2 @@
-- [Website](https://nightfall-website.herokuapp.com/)
+- [Website](https://nightfall.epizy.com/)
 - [Discord](https://discord.gg/e8Qy8JKbUK)
