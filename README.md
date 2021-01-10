@@ -1,2 +1,2 @@
-- [Website](https://nightfall.epizy.com/)
+- [Website](http://nightfall.epizy.com/)
 - [Discord](https://discord.gg/e8Qy8JKbUK)
