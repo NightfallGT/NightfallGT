@@ -1,2 +1,2 @@
-- [Website](http://nightfall.epizy.com/)
+- [Website](https://cutt.ly/nightfallgt)
 
