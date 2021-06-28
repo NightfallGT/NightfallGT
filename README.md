@@ -1,4 +1,4 @@
-<h1 align="center">NightfallGT</h1>
+<h2 align="center">NightfallGT</h2>
 <p align="center">
   
 <p align="center">
