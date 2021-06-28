@@ -1,19 +1,14 @@
 <h1 align="center">NightfallGT</h1>
 <p align="center">
   
-  <samp>
-    <b></b>
-    <br>Welcome to my GitHub page<br>
 
-</samp>
-
-  <img src="https://64.media.tumblr.com/7dfbef26b0388a91922e9727650b51e9/tumblr_ooy2i7l8Du1vefoo6o5_540.gif" />
+  <img src="https://user-images.githubusercontent.com/39178149/123626685-b0781400-d843-11eb-8bf3-a9577f884d69.gif" />
 
 </p>
 
 <details align="center">
 
-<summary> <b> <samp> Open </samp></b></summary>
+<summary> <b> <samp> Click me </samp></b></summary>
 <samp>
 
   <br> </br>
